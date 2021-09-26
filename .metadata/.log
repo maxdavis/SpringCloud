@@ -80,3 +80,123 @@ Contains: Missing org.springframework.boot:spring-boot-starter-security:jar:java
 !MESSAGE Could not resolve artifact org.springframework.boot:spring-boot-starter-security:jar:javadoc:2.1.5.RELEASE
 !SUBENTRY 2 org.eclipse.m2e.core 4 -1 2021-09-26 18:37:07.116
 !MESSAGE Missing org.springframework.boot:spring-boot-starter-security:jar:javadoc:2.1.5.RELEASE
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2021-09-26 20:07:19.943
+!MESSAGE Entering DelegatingStreamConnectionProvider()
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2021-09-26 20:07:19.943
+!MESSAGE DelegatingStreamConnectionProvider classloader = org.eclipse.osgi.internal.loader.EquinoxClassLoader@4d9e3e25[org.springframework.tooling.boot.ls:1.24.0.202012131915(id=572)]
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2021-09-26 20:07:19.944
+!MESSAGE SpringBootLanguageServer exists!
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2021-09-26 20:07:19.964
+!MESSAGE Instantiating ReusableClasspathListenerHandler
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2021-09-26 20:07:22.482
+!MESSAGE Boot LS startup time from start to initialized: 2531ms
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2021-09-26 20:07:22.584
+!MESSAGE ClasspathListenerHandler addClasspathListener sts4.classpath.bGuDjTMcisBatched = true
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2021-09-26 20:07:22.587
+!MESSAGE Setting up ClasspathListenerManager
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2021-09-26 20:07:22.590
+!MESSAGE Scheduling initial event for all projects ...
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2021-09-26 20:07:22.590
+!MESSAGE Scheduling initial event for all projects DONE
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2021-09-26 20:07:22.591
+!MESSAGE exists = true open = true => deleted = false
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2021-09-26 20:07:22.591
+!MESSAGE ClasspathListenerHandler addClasspathListener sts4.classpath.bGuDjTMc => OK
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2021-09-26 20:07:22.595
+!MESSAGE classpath=85 entries
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2021-09-26 20:07:22.596
+!MESSAGE buffering callback sts4.classpath.bGuDjTMc config-server false 85
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2021-09-26 20:07:22.599
+!MESSAGE exists = true open = true => deleted = false
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2021-09-26 20:07:22.602
+!MESSAGE classpath=92 entries
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2021-09-26 20:07:22.603
+!MESSAGE buffering callback sts4.classpath.bGuDjTMc auth false 92
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2021-09-26 20:07:22.603
+!MESSAGE exists = true open = true => deleted = false
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2021-09-26 20:07:22.605
+!MESSAGE classpath=145 entries
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2021-09-26 20:07:22.606
+!MESSAGE buffering callback sts4.classpath.bGuDjTMc eureka-server false 145
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2021-09-26 20:07:22.606
+!MESSAGE exists = true open = true => deleted = false
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2021-09-26 20:07:22.609
+!MESSAGE classpath=169 entries
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2021-09-26 20:07:22.610
+!MESSAGE buffering callback sts4.classpath.bGuDjTMc fornecedor false 169
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2021-09-26 20:07:22.611
+!MESSAGE exists = true open = true => deleted = false
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2021-09-26 20:07:22.619
+!MESSAGE classpath=186 entries
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2021-09-26 20:07:22.621
+!MESSAGE buffering callback sts4.classpath.bGuDjTMc loja false 186
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2021-09-26 20:07:22.622
+!MESSAGE exists = true open = true => deleted = false
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2021-09-26 20:07:22.624
+!MESSAGE classpath=149 entries
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2021-09-26 20:07:22.625
+!MESSAGE buffering callback sts4.classpath.bGuDjTMc transportador false 149
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2021-09-26 20:07:22.626
+!MESSAGE exists = true open = true => deleted = false
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2021-09-26 20:07:22.629
+!MESSAGE classpath=147 entries
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2021-09-26 20:07:22.630
+!MESSAGE buffering callback sts4.classpath.bGuDjTMc zuul false 147
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2021-09-26 20:07:22.631
+!MESSAGE executing callback sts4.classpath.bGuDjTMc 7 batched events
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2021-09-26 20:07:22.730
+!MESSAGE executing callback sts4.classpath.bGuDjTMc SUCCESS [done]
+
+!ENTRY org.eclipse.jface 2 0 2021-09-26 20:07:24.786
+!MESSAGE Keybinding conflicts occurred.  They may interfere with normal accelerator operation.
+!SUBENTRY 1 org.eclipse.jface 2 0 2021-09-26 20:07:24.786
+!MESSAGE A conflict occurred for CTRL+SHIFT+C:
+Binding(CTRL+SHIFT+C,
+	ParameterizedCommand(Command(org.eclipse.tm4e.languageconfiguration.togglelinecommentcommand,Toggle Line Comment,
+		,
+		Category(org.eclipse.tm4e.languageconfiguration.category,TM4E Language Configuration,null,true),
+		org.eclipse.ui.internal.WorkbenchHandlerServiceHandler@6ae194ad,
+		,,true),null),
+	org.eclipse.ui.defaultAcceleratorConfiguration,
+	org.eclipse.ui.textEditorScope,,,system)
+Binding(CTRL+SHIFT+C,
+	ParameterizedCommand(Command(org.springframework.tooling.boot.ls.ToggleComment,Toggle Comment,
+		,
+		Category(org.springframework.ide.eclipse.commands,Spring Generic Text Editor,Spring Language Server Commands,true),
+		org.eclipse.ui.internal.WorkbenchHandlerServiceHandler@53f04a20,
+		,,true),null),
+	org.eclipse.ui.defaultAcceleratorConfiguration,
+	org.eclipse.ui.textEditorScope,,,system)
