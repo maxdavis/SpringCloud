@@ -1,0 +1,8 @@
+spring:
+  datasource:
+    password: max@123
+    username: max
+    url: jdbc:mysql://localhost:3306/fornecedor
+  jpa:
+    hibernate:
+      ddl-auto: update
